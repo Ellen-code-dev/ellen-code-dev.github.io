@@ -1,7 +1,9 @@
 ---
-permalink: /resume/
 title: "Resume"
+permalink: /resume/
+layout: page   # <-- use page layout instead of single
 ---
+
 # Ellen Sirleaf – Resume
 
 ## Education
