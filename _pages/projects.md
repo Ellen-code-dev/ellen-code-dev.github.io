@@ -11,15 +11,16 @@ author_profile: true
 
 ---
 
-## Project 2: Geoovyn Project
-**Description:** Developed Geoovyn, a platform designed to analyze geographical data and provide actionable insights for urban planning and decision-making.  
+## Project 2: Geovyn Project
+**Description:** Developed Geovyn, a platform designed to analyze geographical data and provide actionable insights for urban planning and decision-making.  
 **Tools & Technologies:** Python, GeoPandas, Folium, Jupyter Notebook.  
 **Key Learnings:** Geospatial data analysis, visualization techniques, and extracting insights to support data-driven decisions.
 
+![Goovyn Screenshot](/assets/images/projects/geovyn.png)
 ---
 
 ## Project 3: Flight Data Automation (n8n)
 **Description:** Automated fetching and storing flight data using APIs.  
 **Tools & Technologies:** n8n, Google Sheets API, AviationStack API, SerpApi.  
 **Key Learnings:** Workflow automation, API integration, and data processing.
-
+![n8n Screenshot](/assets/images/projects/workflow.png)
