@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am a Math and Computer Science enthusiast with a passion for Data Science, AI, and Machine Learning. 
   I thrive at the intersection of Cybersecurity and Ethical Hacking, extracting insights from data while protecting it. 
   My mission is to combine intelligent analytics with digital resilience, building secure and insightful solutions.
-twitter_username: username
-github_username: username
+twitter_username: ESirleaf1916
+github_username: Ellen-code-dev
 minimal_mistakes_skin: default
 search: true
 
@@ -62,32 +62,33 @@ plugins:
 author:
   name   : "Ellen Sirleaf"
   avatar : "/assets/images/EllenProfile.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Math & Computer Science enthusiast passionate about Data Science, AI, and Machine Learning. Skilled in Cybersecurity and Ethical Hacking, I explore and secure digital systems while extracting actionable insights from data."
+
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ellen-sirleaf-745905302/"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/ESirleaf1916"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Ellen-code-dev"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ellen-sirleaf-745905302/"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/ESirleaf1916"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Ellen-code-dev"
 
 defaults:
   # _posts
