@@ -16,11 +16,11 @@ author_profile: true
 **Tools & Technologies:** Python, GeoPandas, Folium, Jupyter Notebook.  
 **Key Learnings:** Geospatial data analysis, visualization techniques, and extracting insights to support data-driven decisions.
 
-![Goovyn Screenshot](/assets/images/geovyn.jpeg)
+![Geovyn Screenshot](/assets/images/geovyn.jpg)
 ---
 
 ## Project 3: Flight Data Automation (n8n)
 **Description:** Automated fetching and storing flight data using APIs.  
 **Tools & Technologies:** n8n, Google Sheets API, AviationStack API, SerpApi.  
 **Key Learnings:** Workflow automation, API integration, and data processing.
-![n8n Screenshot](/assets/images/workflow.jpeg)
+![n8n Screenshot](/assets/images/workflow.jpg)
