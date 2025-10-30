@@ -3,6 +3,23 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![Ellen Sirleaf](/assets/images/EllenProfile.jpg)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Hello, I'm Ellen Sirleaf
+
+I’m a **Math and Computer Science enthusiast** with a passion for exploring the frontiers of **Data Science, AI & ML, and Cybersecurity**.  
+
+I love **turning raw data into meaningful insights** and using that knowledge to **build secure, intelligent systems**. At the same time, I’m fascinated by the challenge of **ethical hacking and penetration testing**, uncovering vulnerabilities before they can be exploited.  
+
+As a **learner eager to upskill**, I am continuously exploring new technologies and methodologies to enhance my skills and stay at the forefront of the tech world.  
+
+## Skills & Expertise
+- **Data Science & Machine Learning:** analyzing data, building predictive models, drawing actionable insights.  
+- **Cybersecurity & Ethical Hacking:** protecting systems, identifying weaknesses, and strengthening defenses.  
+- **Programming:** Python, C, SQL, and other tools that empower my projects.  
+
+## My Mission
+I aim to **bridge the gap between intelligent analytics and digital security**, crafting solutions that are not only insightful but safe. Every project I take on is a chance to **learn, innovate, and make data work for good**.  
+
+## Fun Fact
+Outside of tech, I love **chess, taekwondo, problem-solving, and exploring how technology shapes our world**.
