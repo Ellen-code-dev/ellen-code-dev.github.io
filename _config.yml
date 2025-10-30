@@ -14,11 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ellen Sirleaf
-email:
+tagline: Cybersecurity | Data Science | AI & ML |Ethical Hacking
+email: oderosirleaf11@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Math and Computer Science enthusiast with a passion for Data Science, AI, and Machine Learning. 
+  I thrive at the intersection of Cybersecurity and Ethical Hacking, extracting insights from data while protecting it. 
+  My mission is to combine intelligent analytics with digital resilience, building secure and insightful solutions.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
