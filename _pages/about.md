@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-![Ellen Sirleaf](/assets/images/EllenProfile.jpg)
+
 
 # Hello, I'm Ellen Sirleaf
 
